@@ -1,0 +1,21 @@
+.transactionHistory {
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse: collapse;
+  border-color: gray;
+  background-color: #fff;
+}
+
+table th,
+table td {
+  width: 250px;
+  padding: 10px;
+  text-align: center;
+  text-transform: capitalize;
+  border: 1px solid gray;
+}
+
+th {
+  background-color: rgb(153, 170, 245);
+  color: #fff;
+}
